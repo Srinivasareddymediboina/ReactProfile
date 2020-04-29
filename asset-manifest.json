@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Srinivasareddymediboina/ReactProfile.git/static/css/main.692e80e4.chunk.css",
+    "main.js": "/Srinivasareddymediboina/ReactProfile.git/static/js/main.1a10cf80.chunk.js",
+    "main.js.map": "/Srinivasareddymediboina/ReactProfile.git/static/js/main.1a10cf80.chunk.js.map",
+    "runtime-main.js": "/Srinivasareddymediboina/ReactProfile.git/static/js/runtime-main.456058bc.js",
+    "runtime-main.js.map": "/Srinivasareddymediboina/ReactProfile.git/static/js/runtime-main.456058bc.js.map",
+    "static/js/2.9203a063.chunk.js": "/Srinivasareddymediboina/ReactProfile.git/static/js/2.9203a063.chunk.js",
+    "static/js/2.9203a063.chunk.js.map": "/Srinivasareddymediboina/ReactProfile.git/static/js/2.9203a063.chunk.js.map",
+    "index.html": "/Srinivasareddymediboina/ReactProfile.git/index.html",
+    "precache-manifest.8de3dc9be9831c8bb631f29a6c33b374.js": "/Srinivasareddymediboina/ReactProfile.git/precache-manifest.8de3dc9be9831c8bb631f29a6c33b374.js",
+    "service-worker.js": "/Srinivasareddymediboina/ReactProfile.git/service-worker.js",
+    "static/css/main.692e80e4.chunk.css.map": "/Srinivasareddymediboina/ReactProfile.git/static/css/main.692e80e4.chunk.css.map",
+    "static/js/2.9203a063.chunk.js.LICENSE.txt": "/Srinivasareddymediboina/ReactProfile.git/static/js/2.9203a063.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.456058bc.js",
+    "static/js/2.9203a063.chunk.js",
+    "static/css/main.692e80e4.chunk.css",
+    "static/js/main.1a10cf80.chunk.js"
+  ]
+}
