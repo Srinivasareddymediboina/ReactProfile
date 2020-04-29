@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Srinivasareddymediboina/ReactProfile.git/static/css/main.692e80e4.chunk.css",
-    "main.js": "/Srinivasareddymediboina/ReactProfile.git/static/js/main.1a10cf80.chunk.js",
-    "main.js.map": "/Srinivasareddymediboina/ReactProfile.git/static/js/main.1a10cf80.chunk.js.map",
-    "runtime-main.js": "/Srinivasareddymediboina/ReactProfile.git/static/js/runtime-main.456058bc.js",
-    "runtime-main.js.map": "/Srinivasareddymediboina/ReactProfile.git/static/js/runtime-main.456058bc.js.map",
-    "static/js/2.9203a063.chunk.js": "/Srinivasareddymediboina/ReactProfile.git/static/js/2.9203a063.chunk.js",
-    "static/js/2.9203a063.chunk.js.map": "/Srinivasareddymediboina/ReactProfile.git/static/js/2.9203a063.chunk.js.map",
-    "index.html": "/Srinivasareddymediboina/ReactProfile.git/index.html",
-    "precache-manifest.8de3dc9be9831c8bb631f29a6c33b374.js": "/Srinivasareddymediboina/ReactProfile.git/precache-manifest.8de3dc9be9831c8bb631f29a6c33b374.js",
-    "service-worker.js": "/Srinivasareddymediboina/ReactProfile.git/service-worker.js",
-    "static/css/main.692e80e4.chunk.css.map": "/Srinivasareddymediboina/ReactProfile.git/static/css/main.692e80e4.chunk.css.map",
-    "static/js/2.9203a063.chunk.js.LICENSE.txt": "/Srinivasareddymediboina/ReactProfile.git/static/js/2.9203a063.chunk.js.LICENSE.txt"
+    "main.css": "/ReactProfile/static/css/main.692e80e4.chunk.css",
+    "main.js": "/ReactProfile/static/js/main.1cfc9413.chunk.js",
+    "main.js.map": "/ReactProfile/static/js/main.1cfc9413.chunk.js.map",
+    "runtime-main.js": "/ReactProfile/static/js/runtime-main.0c265e30.js",
+    "runtime-main.js.map": "/ReactProfile/static/js/runtime-main.0c265e30.js.map",
+    "static/js/2.9203a063.chunk.js": "/ReactProfile/static/js/2.9203a063.chunk.js",
+    "static/js/2.9203a063.chunk.js.map": "/ReactProfile/static/js/2.9203a063.chunk.js.map",
+    "index.html": "/ReactProfile/index.html",
+    "precache-manifest.6c6bdfe332e58db3c56ccd2238e590a2.js": "/ReactProfile/precache-manifest.6c6bdfe332e58db3c56ccd2238e590a2.js",
+    "service-worker.js": "/ReactProfile/service-worker.js",
+    "static/css/main.692e80e4.chunk.css.map": "/ReactProfile/static/css/main.692e80e4.chunk.css.map",
+    "static/js/2.9203a063.chunk.js.LICENSE.txt": "/ReactProfile/static/js/2.9203a063.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.456058bc.js",
+    "static/js/runtime-main.0c265e30.js",
     "static/js/2.9203a063.chunk.js",
     "static/css/main.692e80e4.chunk.css",
-    "static/js/main.1a10cf80.chunk.js"
+    "static/js/main.1cfc9413.chunk.js"
   ]
 }
